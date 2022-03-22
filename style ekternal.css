@@ -1,0 +1,20 @@
+
+  /* class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+  }
+  .btn-primary {
+    background: #e42a42;
+  }
+  .text-paragraf {
+    color: #0f93ff;
+  }
+  #paragraf-1 {
+    color: #e73e14;
+  }
+  
